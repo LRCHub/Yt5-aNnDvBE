@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エンゼル92",
+  "base_artist": "MARETU",
+  "createdAt": "2025-12-02T13:37:30.470751Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンゼル92",
+      "artist": "Maretu",
+      "has_synced": false,
+      "path": "select/pl_01_エンゼル92_Maretu.txt"
+    }
+  ]
+}
